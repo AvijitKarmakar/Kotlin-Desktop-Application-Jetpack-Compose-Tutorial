@@ -1,0 +1,58 @@
+{
+  "courseId": "KDAJC",
+  "courseName": "Kotlin Desktop Application using Jetpack Compose",
+  "chapters": [
+    {
+      "chapterNo": 1,
+      "chapterName": "Getting Started",
+      "learnings": [
+        {
+          "learningNo": 1,
+          "learningName": "Overview and What is covered"
+        },
+        {
+          "learningNo": 2,
+          "learningName": "Prerequisites"
+        },
+        {
+          "learningNo": 3,
+          "learningName": "Create a new project"
+        },
+        {
+          "learningNo": 4,
+          "learningName": "Run your project"
+        }
+      ]
+    },
+    {
+      "chapterNo": 2,
+      "chapterName": "Native Distributions for Supported Systems",
+      "learnings": []
+    },
+    {
+      "chapterNo": 3,
+      "chapterName": "Explore Text View",
+      "learnings": []
+    },
+    {
+      "chapterNo": 4,
+      "chapterName": "Explore Button View",
+      "learnings": []
+    },
+    {
+      "chapterNo": 5,
+      "chapterName": "Explore TextField View (EditText)",
+      "learnings": []
+    },
+    {
+      "chapterNo": 6,
+      "chapterName": "Create Addition Application",
+      "learnings": []
+    },
+    {
+      "chapterNo": 7,
+      "chapterName": "Even or Odd Number Checking Application",
+      "learnings": []
+    }
+  ]
+}
