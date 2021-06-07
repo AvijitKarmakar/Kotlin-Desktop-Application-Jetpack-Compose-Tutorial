@@ -5,7 +5,7 @@
     "learningContents": [
       {
         "style": "Heading2",
-        "paragraphs": [
+        "contents": [
           {
             "text": "Overview and What is covered",
             "bold": true
@@ -14,7 +14,7 @@
       },
       {
         "style": "Paragraph",
-        "paragraphs": [
+        "contents": [
           {
             "text": "Fast reactive desktop UIs for Kotlin, based on Google\u0027s",
             "bold": false
@@ -55,11 +55,11 @@
       },
       {
         "style": "Paragraph",
-        "paragraphs": []
+        "contents": []
       },
       {
         "style": "Paragraph",
-        "paragraphs": [
+        "contents": [
           {
             "text": "Compose for Desktop can produce applications for ",
             "bold": false
@@ -96,11 +96,11 @@
       },
       {
         "style": "Paragraph",
-        "paragraphs": []
+        "contents": []
       },
       {
         "style": "Paragraph",
-        "paragraphs": [
+        "contents": [
           {
             "text": "In this tutorial we will create a simple desktop UI application using the Compose UI framework. You can say, it’s the ",
             "bold": false
@@ -117,7 +117,7 @@
       },
       {
         "style": "Paragraph",
-        "paragraphs": []
+        "contents": []
       }
     ]
   },
@@ -127,7 +127,7 @@
     "learningContents": [
       {
         "style": "Heading2",
-        "paragraphs": [
+        "contents": [
           {
             "text": "Prerequisites",
             "bold": true
@@ -136,7 +136,7 @@
       },
       {
         "style": "Paragraph",
-        "paragraphs": [
+        "contents": [
           {
             "text": "To create a Kotlin desktop application using Compose for Desktop, we have to use IntelliJ IDEA Community Edition or Ultimate Edition 20.2 or later.",
             "bold": false
@@ -145,11 +145,11 @@
       },
       {
         "style": "Paragraph",
-        "paragraphs": []
+        "contents": []
       },
       {
         "style": "Paragraph",
-        "paragraphs": [
+        "contents": [
           {
             "text": "You can download it from th",
             "bold": false
@@ -174,7 +174,7 @@
       },
       {
         "style": "Paragraph",
-        "paragraphs": []
+        "contents": []
       }
     ]
   },
@@ -184,7 +184,7 @@
     "learningContents": [
       {
         "style": "Heading2",
-        "paragraphs": [
+        "contents": [
           {
             "text": "Create a new project",
             "bold": true
@@ -193,7 +193,7 @@
       },
       {
         "style": "Paragraph",
-        "paragraphs": [
+        "contents": [
           {
             "text": "Follow the below steps to create a Kotlin Desktop Application using Compose for Desktop.",
             "bold": false
@@ -202,11 +202,11 @@
       },
       {
         "style": "Paragraph",
-        "paragraphs": []
+        "contents": []
       },
       {
         "style": "Paragraph",
-        "paragraphs": [
+        "contents": [
           {
             "text": "Step 1:",
             "bold": true
@@ -227,11 +227,11 @@
       },
       {
         "style": "Paragraph",
-        "paragraphs": []
+        "contents": []
       },
       {
         "style": "Paragraph",
-        "paragraphs": [
+        "contents": [
           {
             "text": "Step 2:",
             "bold": true
@@ -244,11 +244,11 @@
       },
       {
         "style": "Paragraph",
-        "paragraphs": []
+        "contents": []
       },
       {
-        "style": "Paragraph",
-        "paragraphs": [
+        "style": "Screenshot",
+        "contents": [
           {
             "text": "KDAJC-1.3-Screenshot-1",
             "bold": false
@@ -257,11 +257,11 @@
       },
       {
         "style": "Paragraph",
-        "paragraphs": []
+        "contents": []
       },
       {
         "style": "Paragraph",
-        "paragraphs": [
+        "contents": [
           {
             "text": "Step 3:",
             "bold": true
@@ -274,28 +274,24 @@
       },
       {
         "style": "Paragraph",
-        "paragraphs": []
+        "contents": []
       },
       {
-        "style": "Paragraph",
-        "paragraphs": [
+        "style": "Screenshot",
+        "contents": [
           {
-            "text": "KDAJC-1.3-Screenshot-",
-            "bold": false
-          },
-          {
-            "text": "2",
+            "text": "KDAJC-1.3-Screenshot-2",
             "bold": false
           }
         ]
       },
       {
         "style": "Paragraph",
-        "paragraphs": []
+        "contents": []
       },
       {
         "style": "Paragraph",
-        "paragraphs": [
+        "contents": [
           {
             "text": "After the creation of this project, you will see a sample code already written in the ",
             "bold": false
@@ -312,28 +308,24 @@
       },
       {
         "style": "Paragraph",
-        "paragraphs": []
+        "contents": []
       },
       {
-        "style": "Paragraph",
-        "paragraphs": [
+        "style": "Screenshot",
+        "contents": [
           {
-            "text": "KDAJC-1.3-Screenshot-",
-            "bold": false
-          },
-          {
-            "text": "3",
+            "text": "KDAJC-1.3-Screenshot-3",
             "bold": false
           }
         ]
       },
       {
         "style": "Paragraph",
-        "paragraphs": []
+        "contents": []
       },
       {
         "style": "Paragraph",
-        "paragraphs": [
+        "contents": [
           {
             "text": "Also check the ",
             "bold": false
@@ -350,28 +342,24 @@
       },
       {
         "style": "Paragraph",
-        "paragraphs": []
+        "contents": []
       },
       {
-        "style": "Paragraph",
-        "paragraphs": [
+        "style": "Screenshot",
+        "contents": [
           {
-            "text": "KDAJC-1.3-Screenshot-",
-            "bold": false
-          },
-          {
-            "text": "4",
+            "text": "KDAJC-1.3-Screenshot-4",
             "bold": false
           }
         ]
       },
       {
         "style": "Paragraph",
-        "paragraphs": []
+        "contents": []
       },
       {
         "style": "Paragraph",
-        "paragraphs": [
+        "contents": [
           {
             "text": "You can update the compose version in this file. To check the latest version of compose follow this link: ",
             "bold": false
@@ -388,7 +376,7 @@
       },
       {
         "style": "Paragraph",
-        "paragraphs": []
+        "contents": []
       }
     ]
   },
@@ -398,7 +386,7 @@
     "learningContents": [
       {
         "style": "Heading2",
-        "paragraphs": [
+        "contents": [
           {
             "text": "Run your project",
             "bold": true
@@ -407,7 +395,7 @@
       },
       {
         "style": "Paragraph",
-        "paragraphs": [
+        "contents": [
           {
             "text": "Y",
             "bold": false
@@ -424,11 +412,11 @@
       },
       {
         "style": "Paragraph",
-        "paragraphs": []
+        "contents": []
       },
       {
         "style": "Paragraph",
-        "paragraphs": [
+        "contents": [
           {
             "text": "Way 1:",
             "bold": true
@@ -453,11 +441,11 @@
       },
       {
         "style": "Paragraph",
-        "paragraphs": []
+        "contents": []
       },
       {
         "style": "Paragraph",
-        "paragraphs": [
+        "contents": [
           {
             "text": "Way 2:",
             "bold": true
@@ -482,11 +470,11 @@
       },
       {
         "style": "Paragraph",
-        "paragraphs": []
+        "contents": []
       },
       {
         "style": "Paragraph",
-        "paragraphs": [
+        "contents": [
           {
             "text": "After running the project, you will see an application opened up and showing a button with text “Hello, World!” and if you click on it, the button text will be changed to “Hello, Desktop!”.",
             "bold": false
@@ -495,11 +483,11 @@
       },
       {
         "style": "Paragraph",
-        "paragraphs": []
+        "contents": []
       },
       {
-        "style": "Paragraph",
-        "paragraphs": [
+        "style": "YouTube",
+        "contents": [
           {
             "text": "https://youtu.be/FUCFVh3-q2k",
             "bold": false
