@@ -1,1 +1,330 @@
-[{"chapterNo":1,"learningNo":1,"learningContents":[{"style":"Heading2","contents":[{"text":"","bold":true}]}]},{"chapterNo":1,"learningNo":2,"learningContents":[{"style":"Heading2","contents":[{"text":"Rest and Motion","bold":true}]},{"style":"Paragraph","contents":[{"text":"If an object does not change its position. Its not moving at all. Then we can say ","bold":false},{"text":"that","bold":false},{"text":", the object is at rest. ","bold":false}]},{"style":"Paragraph","contents":[{"text":"For example:","bold":true},{"text":" A book is lying on the table. Its not moving with time. So, we can say it that the book is at rest.","bold":false}]},{"style":"Paragraph","contents":[{"text":"But ","bold":false},{"text":"its","bold":false},{"text":" vary from ","bold":false},{"text":"each others","bold":false},{"text":" perspective. You are seeing ","bold":false},{"text":"that,","bold":false},{"text":" the book is at rest.","bold":false},{"text":" But someone will see that, ","bold":false},{"text":"its","bold":false},{"text":" moving. Now you will think that, is the observer mad.","bold":false},{"text":" So,","bold":false},{"text":" to know why someone is seeing that the book is moving, for that","bold":false},{"text":" we have to learn what is motion.","bold":false}]},{"style":"Paragraph","contents":[{"text":"When do we say object is at ","bold":true},{"text":"Motion","bold":true}]},{"style":"Paragraph","contents":[{"text":"Now, if we see ","bold":false},{"text":"our Earth","bold":false},{"text":" from the space, then ","bold":false},{"text":"you will see that ","bold":false},{"text":"everything is moving circularly. As our Earth is rotating and we are living on the earth. So, whoever in the space will see us that the everything is moving.","bold":false},{"text":" Your book, we people, every object resides on the Earth, everything is moving.","bold":false}]},{"style":"Paragraph","contents":[{"text":"Another example of Rest and Motion","bold":true}]},{"style":"Paragraph","contents":[{"text":"If you are travelling in a bus or train, you will see that, the people who are travelling inside the train or bus are not moving. All the objects are resting at the same position. But whatever objects you see outside the train or bus, everything is moving. ","bold":false}]},{"style":"Paragraph","contents":[{"text":"Again, if you are outside of that train or bus, you will see that, the train or bus and ","bold":false},{"text":"its","bold":false},{"text":" passengers all are moving.","bold":false}]},{"style":"Paragraph","contents":[{"text":"From here ","bold":false},{"text":"you can conclude that, rest and motion state of the object is dependent on the viewer or observer.","bold":false}]},{"style":"Paragraph","contents":[]}]},{"chapterNo":1,"learningNo":3,"learningContents":[{"style":"Heading2","contents":[{"text":"Distance and Displacement ","bold":true}]},{"style":"Paragraph","contents":[{"text":"Suppose an object is at","bold":false},{"text":" position A and after certain time the object is at position B. The object reached the point B via point C and D. Check the image below:","bold":false},{"text":" ","bold":false}]},{"style":"Paragraph","contents":[]},{"style":"Paragraph","contents":[{"text":"Distance is the total path covered to reach point A to point B. ","bold":false},{"text":"So","bold":false},{"text":" in the above image, distance will be the length of the path ACDB.","bold":false}]},{"style":"Paragraph","contents":[{"text":"Now if we connect the position A and position B by a straight line then that will be the displacement of the object. ","bold":false},{"text":"The ","bold":false},{"text":"straight line","bold":false},{"text":" distance between the point A and point B is the magnitude of the displacement. ","bold":false}]},{"style":"Paragraph","contents":[{"text":"We know that, the ","bold":false},{"text":"straight line","bold":false},{"text":" distance between two points is the shortest distance between two points. Then we can get this formula:","bold":false}]},{"style":"Paragraph","contents":[{"text":"| Displacement | \u003c\u003d Distance","bold":false}]},{"style":"Paragraph","contents":[]},{"style":"Paragraph","contents":[{"text":"Now let’s check a question:","bold":false}]},{"style":"Paragraph","contents":[{"text":"A person moving on a semi-circular track of radius 10 meter. If he starts at one end of the tack and reaches at the other end then find the distance covered and displacement of the person.","bold":false}]}]}]
+[
+  {
+    "chapterNo": 1,
+    "learningNo": 1,
+    "learningContents": [
+      {
+        "style": "Heading2",
+        "contents": [
+          {
+            "text": "Rest and Motion",
+            "bold": true
+          }
+        ]
+      },
+      {
+        "style": "Screenshot",
+        "contents": [
+          {
+            "text": "PHY-XI-1.1-Screenshot-1",
+            "bold": false
+          }
+        ]
+      },
+      {
+        "style": "Screenshot",
+        "contents": [
+          {
+            "text": "PHY-XI-1.1-Screenshot-2",
+            "bold": false
+          }
+        ]
+      },
+      {
+        "style": "Paragraph",
+        "contents": [
+          {
+            "text": "If an object does not change its position. Its not moving at all. Then we can say ",
+            "bold": false
+          },
+          {
+            "text": "that",
+            "bold": false
+          },
+          {
+            "text": ", the object is at rest. ",
+            "bold": false
+          }
+        ]
+      },
+      {
+        "style": "Paragraph",
+        "contents": [
+          {
+            "text": "For example:",
+            "bold": true
+          },
+          {
+            "text": " A book is lying on the table. Its not moving with time. So, we can say it that the book is at rest.",
+            "bold": false
+          }
+        ]
+      },
+      {
+        "style": "Paragraph",
+        "contents": [
+          {
+            "text": "But ",
+            "bold": false
+          },
+          {
+            "text": "its",
+            "bold": false
+          },
+          {
+            "text": " vary from ",
+            "bold": false
+          },
+          {
+            "text": "each others",
+            "bold": false
+          },
+          {
+            "text": " perspective. You are seeing ",
+            "bold": false
+          },
+          {
+            "text": "that,",
+            "bold": false
+          },
+          {
+            "text": " the book is at rest.",
+            "bold": false
+          },
+          {
+            "text": " But someone will see that, ",
+            "bold": false
+          },
+          {
+            "text": "its",
+            "bold": false
+          },
+          {
+            "text": " moving. Now you will think that, is the observer mad.",
+            "bold": false
+          },
+          {
+            "text": " So,",
+            "bold": false
+          },
+          {
+            "text": " to know why someone is seeing that the book is moving, for that",
+            "bold": false
+          },
+          {
+            "text": " we have to learn what is motion.",
+            "bold": false
+          }
+        ]
+      },
+      {
+        "style": "Paragraph",
+        "contents": [
+          {
+            "text": "When do we say object is at ",
+            "bold": true
+          },
+          {
+            "text": "Motion",
+            "bold": true
+          }
+        ]
+      },
+      {
+        "style": "Paragraph",
+        "contents": [
+          {
+            "text": "Now, if we see ",
+            "bold": false
+          },
+          {
+            "text": "our Earth",
+            "bold": false
+          },
+          {
+            "text": " from the space, then ",
+            "bold": false
+          },
+          {
+            "text": "you will see that ",
+            "bold": false
+          },
+          {
+            "text": "everything is moving circularly. As our Earth is rotating and we are living on the earth. So, whoever in the space will see us that the everything is moving.",
+            "bold": false
+          },
+          {
+            "text": " Your book, we people, every object resides on the Earth, everything is moving.",
+            "bold": false
+          }
+        ]
+      },
+      {
+        "style": "Paragraph",
+        "contents": [
+          {
+            "text": "Another example of Rest and Motion",
+            "bold": true
+          }
+        ]
+      },
+      {
+        "style": "Paragraph",
+        "contents": [
+          {
+            "text": "If you are travelling in a bus or train, you will see that, the people who are travelling inside the train or bus are not moving. All the objects are resting at the same position. But whatever objects you see outside the train or bus, everything is moving. ",
+            "bold": false
+          }
+        ]
+      },
+      {
+        "style": "Paragraph",
+        "contents": [
+          {
+            "text": "Again, if you are outside of that train or bus, you will see that, the train or bus and its passengers all are moving.",
+            "bold": false
+          }
+        ]
+      },
+      {
+        "style": "Paragraph",
+        "contents": [
+          {
+            "text": "From here ",
+            "bold": false
+          },
+          {
+            "text": "you can conclude that, rest and motion state of the object is dependent on the viewer or observer.",
+            "bold": false
+          }
+        ]
+      },
+      {
+        "style": "Paragraph",
+        "contents": []
+      }
+    ]
+  },
+  {
+    "chapterNo": 1,
+    "learningNo": 2,
+    "learningContents": [
+      {
+        "style": "Heading2",
+        "contents": [
+          {
+            "text": "Distance and Displacement ",
+            "bold": true
+          }
+        ]
+      },
+      {
+        "style": "Paragraph",
+        "contents": [
+          {
+            "text": "Suppose an object is at",
+            "bold": false
+          },
+          {
+            "text": " position A and after certain time the object is at position B. The object reached the point B via point C and D. Check the image below:",
+            "bold": false
+          },
+          {
+            "text": " ",
+            "bold": false
+          }
+        ]
+      },
+      {
+        "style": "Paragraph",
+        "contents": []
+      },
+      {
+        "style": "Paragraph",
+        "contents": [
+          {
+            "text": "Distance is the total path covered to reach point A to point B. ",
+            "bold": false
+          },
+          {
+            "text": "So",
+            "bold": false
+          },
+          {
+            "text": " in the above image, distance will be the length of the path ACDB.",
+            "bold": false
+          }
+        ]
+      },
+      {
+        "style": "Paragraph",
+        "contents": [
+          {
+            "text": "Now if we connect the position A and position B by a straight line then that will be the displacement of the object. ",
+            "bold": false
+          },
+          {
+            "text": "The ",
+            "bold": false
+          },
+          {
+            "text": "straight line",
+            "bold": false
+          },
+          {
+            "text": " distance between the point A and point B is the magnitude of the displacement. ",
+            "bold": false
+          }
+        ]
+      },
+      {
+        "style": "Paragraph",
+        "contents": [
+          {
+            "text": "We know that, the ",
+            "bold": false
+          },
+          {
+            "text": "straight line",
+            "bold": false
+          },
+          {
+            "text": " distance between two points is the shortest distance between two points. Then we can get this formula:",
+            "bold": false
+          }
+        ]
+      },
+      {
+        "style": "Paragraph",
+        "contents": [
+          {
+            "text": "| Displacement | \u003c\u003d Distance",
+            "bold": false
+          }
+        ]
+      },
+      {
+        "style": "Paragraph",
+        "contents": []
+      },
+      {
+        "style": "Paragraph",
+        "contents": [
+          {
+            "text": "Now let’s check a question:",
+            "bold": false
+          }
+        ]
+      },
+      {
+        "style": "Paragraph",
+        "contents": [
+          {
+            "text": "A person moving on a semi-circular track of radius 10 meter. If he starts at one end of the tack and reaches at the other end then find the distance covered and displacement of the person.",
+            "bold": false
+          }
+        ]
+      }
+    ]
+  }
+]
