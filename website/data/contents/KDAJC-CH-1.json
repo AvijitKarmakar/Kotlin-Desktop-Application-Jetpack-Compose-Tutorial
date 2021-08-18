@@ -9,7 +9,8 @@
           {
             "text": "What will be covered",
             "bold": true,
-            "link": false
+            "link": false,
+            "highlighted": false
           }
         ]
       },
@@ -19,22 +20,26 @@
           {
             "text": "In this tutorial",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": ",",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": " we will ",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": "cover:",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           }
         ]
       },
@@ -42,9 +47,22 @@
         "style": "BulletListParagraph",
         "contents": [
           {
-            "text": "Overview of Kotlin Desktop Application Development using Compose for Desktop",
+            "text": "Overview of ",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
+          },
+          {
+            "text": "Kotlin",
+            "bold": false,
+            "link": false,
+            "highlighted": true
+          },
+          {
+            "text": " Desktop Application Development using Compose for Desktop",
+            "bold": false,
+            "link": false,
+            "highlighted": false
           }
         ]
       },
@@ -54,7 +72,8 @@
           {
             "text": "Prerequisites ",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           }
         ]
       },
@@ -64,42 +83,50 @@
           {
             "text": "Steps to c",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": "reate a ",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": "“Hello World”",
             "bold": true,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": " ",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": "D",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": "esktop ",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": "A",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": "pplication using Compose for Desktop",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           }
         ]
       }
@@ -115,7 +142,8 @@
           {
             "text": "Overview",
             "bold": true,
-            "link": false
+            "link": false,
+            "highlighted": false
           }
         ]
       },
@@ -125,57 +153,68 @@
           {
             "text": "Fast reactive desktop UIs for Kotlin, based on Google\u0027s",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": " ",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": "modern",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": " UI",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": " toolkit and brought to you by ",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": "JetBrains",
             "bold": true,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": ". Compose simplifies and accelerates the UI development for desktop applications. It also allows UI code sharing between ",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": "Android",
             "bold": true,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": " and ",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": "Desktop",
             "bold": true,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": " applications.",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           }
         ]
       },
@@ -189,42 +228,50 @@
           {
             "text": "Compose for Desktop can produce applications for ",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": "macOS",
             "bold": true,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": ", ",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": "Linux",
             "bold": true,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": ",",
             "bold": true,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": " and ",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": "Windows",
             "bold": true,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": " platforms.",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           }
         ]
       }
@@ -240,7 +287,8 @@
           {
             "text": "Prerequisites",
             "bold": true,
-            "link": false
+            "link": false,
+            "highlighted": false
           }
         ]
       },
@@ -250,27 +298,32 @@
           {
             "text": "To create a Kotlin ",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": "D",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": "esktop ",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": "A",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": "pplication using Compose for Desktop, we have to use IntelliJ IDEA Community Edition or Ultimate Edition 20.2 or later.",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           }
         ]
       },
@@ -284,27 +337,32 @@
           {
             "text": "You can download it from th",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": "is ",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": "link:",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": " ",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": "https://www.jetbrains.com/idea/",
             "bold": false,
-            "link": true
+            "link": true,
+            "highlighted": false
           }
         ]
       }
@@ -320,7 +378,8 @@
           {
             "text": "Create a new project",
             "bold": true,
-            "link": false
+            "link": false,
+            "highlighted": false
           }
         ]
       },
@@ -330,7 +389,8 @@
           {
             "text": "Follow the below steps to create a Kotlin Desktop Application using Compose for Desktop.",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           }
         ]
       },
@@ -344,22 +404,26 @@
           {
             "text": "Step 1:",
             "bold": true,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": " Open ",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": "IntelliJ IDEA IDE",
             "bold": true,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": " and click on New Project.",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           }
         ]
       },
@@ -373,12 +437,14 @@
           {
             "text": "Step 2:",
             "bold": true,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": " A new project wizard will open up.",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           }
         ]
       },
@@ -388,17 +454,20 @@
           {
             "text": "Select ",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": "Kotlin",
             "bold": true,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": " from the left panel",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           }
         ]
       },
@@ -408,7 +477,8 @@
           {
             "text": "Set the Project Name and Location",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           }
         ]
       },
@@ -418,32 +488,38 @@
           {
             "text": "In the ",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": "Project Template",
             "bold": true,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": " section choose ",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": "Desktop uses Kotlin",
             "bold": true,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": " under ",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": "Jetpack Compose for Desktop",
             "bold": true,
-            "link": false
+            "link": false,
+            "highlighted": false
           }
         ]
       },
@@ -453,22 +529,26 @@
           {
             "text": "Project ",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": "JDK",
             "bold": true,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": " must be ",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": "at least JDK 11",
             "bold": true,
-            "link": false
+            "link": false,
+            "highlighted": false
           }
         ]
       },
@@ -478,7 +558,8 @@
           {
             "text": "Set your Artifact Coordinates",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           }
         ]
       },
@@ -488,7 +569,8 @@
           {
             "text": "Click on Next",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           }
         ]
       },
@@ -498,7 +580,8 @@
           {
             "text": "777x1046//KDAJC-1.4-Screenshot-1",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           }
         ]
       },
@@ -512,12 +595,14 @@
           {
             "text": "Step 3:",
             "bold": true,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": " Now you have to set some more things.",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           }
         ]
       },
@@ -527,32 +612,38 @@
           {
             "text": "T",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": "he ",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": "T",
             "bold": true,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": "emplate",
             "bold": true,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": " will be ",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": "Compose Desktop Application",
             "bold": true,
-            "link": false
+            "link": false,
+            "highlighted": false
           }
         ]
       },
@@ -562,7 +653,8 @@
           {
             "text": "Set your Test Framework",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           }
         ]
       },
@@ -572,17 +664,20 @@
           {
             "text": "Target JVM",
             "bold": true,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": " version must be ",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": "at least 11",
             "bold": true,
-            "link": false
+            "link": false,
+            "highlighted": false
           }
         ]
       },
@@ -592,7 +687,8 @@
           {
             "text": "Click on Finish",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           }
         ]
       },
@@ -606,7 +702,8 @@
           {
             "text": "777x1045//KDAJC-1.4-Screenshot-2",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           }
         ]
       },
@@ -620,17 +717,20 @@
           {
             "text": "After the creation of this project, you will see a sample code already written in the ",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": "main.kt",
             "bold": true,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": " file. Please take the reference of the below screenshot.",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           }
         ]
       },
@@ -644,7 +744,8 @@
           {
             "text": "1037x1915//KDAJC-1.4-Screenshot-3",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           }
         ]
       },
@@ -658,27 +759,32 @@
           {
             "text": "Also",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": ",",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": " check the ",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": "build.gradle.kts",
             "bold": true,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": " file.",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           }
         ]
       },
@@ -692,7 +798,8 @@
           {
             "text": "1036x1918//KDAJC-1.4-Screenshot-4",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           }
         ]
       },
@@ -706,47 +813,56 @@
           {
             "text": "You can update the compose version in this file. To check the latest version of ",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": "C",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": "ompose",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": " for Desktop",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": " follow this link: ",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": "https://github.com/JetBrains/compose-jb/tags",
             "bold": false,
-            "link": true
+            "link": true,
+            "highlighted": false
           },
           {
             "text": ". You can also update the Kotlin version ",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": "with",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": " a compatible version with Compose.",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           }
         ]
       },
@@ -766,7 +882,8 @@
           {
             "text": "Run your project",
             "bold": true,
-            "link": false
+            "link": false,
+            "highlighted": false
           }
         ]
       },
@@ -776,17 +893,20 @@
           {
             "text": "Y",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": "ou can run th",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": "e project in multiple ways.",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           }
         ]
       },
@@ -800,32 +920,50 @@
           {
             "text": "Way 1:",
             "bold": true,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": " ",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
-            "text": "By clicking on the run icon available at the left side of ",
+            "text": "By clicking on the ",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
+          },
+          {
+            "text": "run",
+            "bold": false,
+            "link": false,
+            "highlighted": false
+          },
+          {
+            "text": " icon available at the left side of ",
+            "bold": false,
+            "link": false,
+            "highlighted": false
           },
           {
             "text": "the ",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": "main",
             "bold": true,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": " function",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           }
         ]
       },
@@ -839,47 +977,56 @@
           {
             "text": "Way 2:",
             "bold": true,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": " ",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": "By double",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": "-",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": "clicking on the ",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": "run",
             "bold": true,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": " ",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": "G",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": "radle task. To find it follow this path: Gradle in Right Panel 🠖 HelloWorld 🠖 Tasks 🠖 compose desktop 🠖 run",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           }
         ]
       },
@@ -893,17 +1040,20 @@
           {
             "text": "After running the project, you will see an application opened up and showing a button with ",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": "the ",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           },
           {
             "text": "text “Hello, World!” and if you click on it, the button text will be changed to “Hello, Desktop!”.",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           }
         ]
       },
@@ -917,7 +1067,8 @@
           {
             "text": "https://youtu.be/FUCFVh3-q2k",
             "bold": false,
-            "link": false
+            "link": false,
+            "highlighted": false
           }
         ]
       }
