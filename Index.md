@@ -1,4 +1,5 @@
 # Chapters and Learnings
+2 Chapters and 7 Learnings
 
 1. **Getting Started with Compose for Desktop**
    * **What will be covered**
@@ -13,5 +14,7 @@
    * **Available Formats of Distribution Build**
 
 # Programming Lab
+Coming Soon
 
 # LeetCode Solutions
+Coming Soon
