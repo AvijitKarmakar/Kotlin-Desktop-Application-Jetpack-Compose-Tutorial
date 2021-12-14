@@ -1,6 +1,6 @@
 | Course Code | Course Type             | Course Name                     | Repo Name         | Primary Color | Secondary Color | Created On               | Updated On               |
 |-------------|-------------------------|---------------------------------|-------------------|---------------|-----------------|--------------------------|--------------------------|
-| KPL         | Programming             | Kotlin Programming              | Kotlin-eVidyalaya | #7455C3       | #AC92EC         | 2021-10-12T10-33-00+0530 | 2021-10-12T10-33-00+0530 |
+| [KPL](https://raw.githubusercontent.com/AvijitKarmakar/Kotlin-Desktop-Application-Jetpack-Compose-Tutorial/test/KDAD/README.md)     | Programming             | Kotlin Programming              | Kotlin-eVidyalaya | #7455C3       | #AC92EC         | 2021-10-12T10-33-00+0530 | 2021-10-12T10-33-00+0530 |
 | KDAD        | Desktop App Development | Desktop Application Development | Kotlin-eVidyalaya | #7455C3       | #AC92EC         | 2021-10-12T10-33-00+0530 | 2021-10-12T10-33-00+0530 |
 | KAAD        | Mobile App Development  | Android Application Development | Kotlin-eVidyalaya | #7455C3       | #AC92EC         | 2021-10-12T10-33-00+0530 | 2021-10-12T10-33-00+0530 |
 | KWFED       | Web Development         | Web Frontend Development        | Kotlin-eVidyalaya | #7455C3       | #AC92EC         | 2021-10-12T10-33-00+0530 | 2021-10-12T10-33-00+0530 |
