@@ -13,8 +13,8 @@
    * **What you will learn in this chapter**
    * **Available Formats of Distribution Build**
 
-# [Programming Lab]()
+# [Programming Lab](https://raw.githubusercontent.com/AvijitKarmakar/Kotlin-Desktop-Application-Jetpack-Compose-Tutorial/test/KDAD/Chapters-Learnings/README.md)
 Coming Soon
 
-# [LeetCode Solutions]()
+# [LeetCode Solutions](https://raw.githubusercontent.com/AvijitKarmakar/Kotlin-Desktop-Application-Jetpack-Compose-Tutorial/test/KDAD/Chapters-Learnings/README.md)
 Coming Soon
