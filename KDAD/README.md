@@ -13,8 +13,8 @@
    * **What you will learn in this chapter**
    * **Available Formats of Distribution Build**
 
-# Programming Lab
+# [Programming Lab]()
 Coming Soon
 
-# LeetCode Solutions
+# [LeetCode Solutions]()
 Coming Soon
