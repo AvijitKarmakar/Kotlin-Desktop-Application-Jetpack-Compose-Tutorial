@@ -1,4 +1,4 @@
-# [Chapters and Learnings](https://raw.githubusercontent.com/AvijitKarmakar/Kotlin-Desktop-Application-Jetpack-Compose-Tutorial/test/KDAD/README.md)
+# [Chapters and Learnings](https://raw.githubusercontent.com/AvijitKarmakar/Kotlin-Desktop-Application-Jetpack-Compose-Tutorial/test/KDAD/Chapters-Learnings/README.md)
 2 Chapters and 7 Learnings
 
 1. **Getting Started with Compose for Desktop**
